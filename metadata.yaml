@@ -1,0 +1,33 @@
+_repo: Antikristus-Arvostelukoe-kristinopista_52953
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kouta, Aarni
+    alias: Candolin, Arnold
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: ''
+gutenberg_issued: '2016-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52953'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Christianity -- Controversial literature'
+- GITenberg
+title: 'Antikristus: Arvostelukoe kristinopista'
+url: http://www.gutenberg.org/ebooks/52953
